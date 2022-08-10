@@ -8,8 +8,13 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #444;
+  color: #fff;
+  /* min-height: 6rem; */
+  font-size: 1.5rem;
 }
 
 .backToHome {
   margin: 3rem 0 0;
+  font-size: 0.9rem;
 }
