@@ -1,18 +1,12 @@
 ---
-title: "仕事と製作物"
+title: "製作物"
 date: "2022-08-10"
 ---
 
-# 電気設備エンジニア業務
 
-電気エンジニアとして、工場で生産設備導入や工事管理をしています。
-また、工場用ユーティリティ設備(電力、蒸気、水、廃水)関係の設備設計や工事管理もしています。
+# 現在提供中のサービス
 
-# プログラム開発
-
-## 現在提供中のサービス
-
-### 電気設備計算アシスタント
+## 電気設備計算アシスタント
 
 電気設計や現場施工時にケーブルサイズ等を簡単に計算できるツール
 
@@ -27,15 +21,15 @@ date: "2022-08-10"
 
 
 
-### 採点カウンター SCCO
+## 採点カウンター SCCO
 
 試験の採点を簡単にするツール
 
 <a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='../images/google-play-badge-ja.png' width=150/></a>
 
-## これまで取り組んだ制作物
+# これまで取り組んだ制作物
 
-### Pythonで数値解析の基礎
+## Pythonで数値解析の基礎
 
 `Python`で数値解析の基礎に取り組みました。2分法やニュートンについて紹介しています。
 
@@ -43,13 +37,13 @@ date: "2022-08-10"
 
 [Github](https://github.com/snova301/nu_an01)
 
-### KerasとOptunaを使ったHyper Parameter調整
+## KerasとOptunaを使ったHyper Parameter調整
 
 Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`を使用した結果をまとめました。
 
 [blog](https://snova301.hatenablog.com/entry/2018/12/14/191025)
 
-### Kerasでの転移学習をfashion_mnistで実践
+## Kerasでの転移学習をfashion_mnistで実践
 
 `fashion_mnist`データセットを`Keras`で転移学習したときの内容をまとめています。
 
@@ -58,7 +52,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Github](https://github.com/snova301/fashion_mnist)
 
 
-### Pythonやmarkdownのグラフや図についてのまとめ
+## Pythonやmarkdownのグラフや図についてのまとめ
 
 `Python`や`markdown`で使用するグラフや図についてまとめました。
 
@@ -67,7 +61,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Qiita](https://qiita.com/snova301/items/894216e1e5fdb45e99af)
 
 
-### ストップウォッチアプリ(Flutter)
+## ストップウォッチアプリ(Flutter)
 
 `Flutter`でストップウォッチアプリを製作しました。
 
@@ -75,7 +69,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 
 [Github](https://github.com/snova301/flutter_stopwatch)
 
-### To Do Listアプリ(Flutter)
+## To Do Listアプリ(Flutter)
 
 `Flutter`で ToDoList アプリを製作しました。
 
@@ -84,14 +78,14 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Github](https://github.com/snova301/flutter_todolist)
 
 
-### PyAutoGUIのまとめ
+## PyAutoGUIのまとめ
 
 `PyAutoGUI`で画面を自由に操作できるようになりました。
 
 [blog](https://snova301.hatenablog.com/entry/2019/06/18/123000)
 
 
-### 電気関係の法令データ収集
+## 電気関係の法令データ収集
 
 電気関係の法令データを`Python`で収集し、`Github`で共有できるようにしました。
 
@@ -100,7 +94,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Github](https://github.com/snova301/japanese_electricity_law)
 
 
-### 電気設備計算アシスタントの製作と公開
+## 電気設備計算アシスタントの製作と公開
 
 電気設備に関する計算ができるアプリを`Flutter`で製作し、`Google Play`と`App Store`に公開しました。
 
@@ -115,7 +109,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [App Store](https://apps.apple.com/us/app/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1632908753)
 
 
-### 電力データの予測
+## 電力データの予測
 
 `Python`で日付と過去の電力データから使用電力を予測しました。
 
@@ -124,14 +118,14 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Github](https://github.com/snova301/UsedElecPred)
 
 
-### 簡単なVRアプリの開発
+## 簡単なVRアプリの開発
 
 `Unity`で Meta Quest2 向けの簡単な VR アプリを製作しました。
 
 [blog](https://snova301.hatenablog.com/entry/2022/04/16/175238)
 
 
-### 採点カウンターアプリの製作と公開
+## 採点カウンターアプリの製作と公開
 
 テストの採点を簡単にするアプリを`Flutter`で製作し、`Google Play`に公開しました
 
@@ -145,7 +139,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 
 
 
-### Flutter x Firebaseをカウンターアプリで実践し、zennで本を出版
+## Flutter x Firebaseをカウンターアプリで実践し、zennで本を出版
 
 `Flutter`から利用できる`Firebase`のサービスをカウンターアプリで実践しました
 
@@ -156,7 +150,7 @@ Neural Network の Hyper Parameter を調整するために、`Keras`と`Optuna`
 [Zenn](https://zenn.dev/snova301/books/6df29a230d681f)
 
 
-### ホームカメラシステムの製作
+## ホームカメラシステムの製作
 
 `Raspberry Pi` x `Flutter` x `Firebase` でホームカメラを製作しました
 
