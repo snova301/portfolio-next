@@ -1,6 +1,6 @@
 ---
 title: "トップページ"
-date: "2022-09-05"
+date: "2024-05-27"
 ---
 
 
@@ -9,18 +9,18 @@ date: "2022-09-05"
 
 ||||||
 |:-:|:-:|:-:|:-:|:-:|
-|<a href="https://twitter.com/TiuapB1nIiPFQJD"><img src="images/icon_twitter.png" alt="Twitter" width=40></a> |<a href="https://github.com/snova301.html"><img src="images/icon_github.png" alt="Github" width=40></a>|<a href="https://snova301.hatenablog.com/"><img src="images/icon_hatenablog.png" alt="Hatenablog" width=40></a>|<a href="https://qiita.com/snova301"><img src="images/qiita.png" alt="Qiita" width=40></a>|<a href="https://zenn.dev/snova301"><img src="images/zenn.png" alt="Zenn" width=40></a>|
+|<a href="https://x.com/TiuapB1nIiPFQJD"><img src="images/icon_X.png" alt="X" width=40></a> |<a href="https://github.com/snova301.html"><img src="images/icon_github.png" alt="Github" width=40></a>|<a href="https://snova301.hatenablog.com/"><img src="images/icon_hatenablog.png" alt="Hatenablog" width=40></a>|<a href="https://qiita.com/snova301"><img src="images/qiita.png" alt="Qiita" width=40></a>|<a href="https://zenn.dev/snova301"><img src="images/zenn.png" alt="Zenn" width=40></a>|
 
 
 # プロフィール
 
 
-幼少期から高校まで、九州の田舎町で育ちました。
 大学では電気電子工学を学び、大学院で機械学習と光ナノデバイスに関する研究を行いました。
-現在はメーカーの技術職に就職し、工場で設備導入を担当しています。
+新卒で化学メーカーの技術職に就職し、工場で設備導入を担当していました。
+現在は機械装置メーカーで装置設計業務のIT化を進める仕事に携わっています。
 
 休日には、学生の頃からの趣味であるプログラミングやマンガ、PCゲームをしています。
-毎日、妻と子どもと楽しく生活しています。
+毎日、妻と子どもたちと楽しく生活しています。
 
 
 
@@ -31,10 +31,6 @@ date: "2022-09-05"
 
 電気設計や現場施工時にケーブルサイズ等を簡単に計算できるアプリです。
 
-[Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)
-
-[App Store](https://apps.apple.com/jp/app/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1632908753)
-
 [Webアプリ](https://ewacdj-3936b.web.app/)
 
 [Github](https://github.com/snova301/elec_calculator)
@@ -43,10 +39,6 @@ date: "2022-09-05"
 ## 消防設備計算アシスタントアプリ
 
 消防設備の設計業務や消防設備士試験の勉強時に設置基準等を簡単に確認するためのアプリです。
-
-[Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.firefight_equip)
-
-[App Store](https://apps.apple.com/jp/app/%E6%B6%88%E9%98%B2%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1641889672)
 
 [Webアプリ](https://firefight-equip-app.web.app/)
 
@@ -116,6 +108,7 @@ date: "2022-09-05"
 ## 情報通信系の資格
 
 - 情報処理技術者(応用、基本)
+- 情報処理安全確保支援士資格
 - 工事担任者 AI・DD総合種
 - アマチュア無線技士(第1級)
 
@@ -133,7 +126,7 @@ date: "2022-09-05"
 ## その他の資格
 
 - QC検定(3級)
-- ファイナンシャルプランナー(3級)
+- ファイナンシャルプランナー(2級)
 
 
 
